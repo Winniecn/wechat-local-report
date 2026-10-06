@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+outputs/
+requests/
+backups/
+.env
+.env.*
+*.db
+*.db-wal
+*.db-shm
+*.sqlite*
+*.log
+*.app/

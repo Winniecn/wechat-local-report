@@ -1,0 +1,4 @@
+interface:
+  display_name: "微信本地聊天总结"
+  short_description: "读取 Mac 本人微信指定群聊，完整核对消息后生成中文总结、离线网页与长图"
+  default_prompt: "使用 $wechat-local-report 总结指定微信群今天的本地已同步记录，并生成 HTML 和 PNG。"
